@@ -11,4 +11,4 @@ instance id, day를 입력받아 instance와 연관된 AMI, Snapshot 중 생성�
 -r : 대상 instance의 region (required)  
 -i : 삭제하려는 AMI, Snapshot의 원본 instance id (required)  
 -d : 삭제하고자 하는 기준 날짜 (required)  
---dryrun : 해당 옵션 셜정 시 dryrun 모드로 코드 수행  
+--dryrun : 해당 옵션 셜정 시 dryrun 모드로 코드 수행   
